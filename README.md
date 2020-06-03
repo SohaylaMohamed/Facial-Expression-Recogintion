@@ -1,3 +1,3 @@
 # Facial-Expression-Recogintion
-![GitHub Logo](/Documents/potser.jpg)
+![GitHub Logo](/Documents/poster.jpg)
 Format: ![Alt Text](url)
